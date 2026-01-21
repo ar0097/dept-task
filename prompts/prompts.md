@@ -30,7 +30,7 @@ Generate a clean React + Vite project structure suitable for a UI-focused fronte
 
 **AI Output (Summary)**
 
-- Suggested a standard React + Vite setup  
+- Suggested a standard React (NextJS)
 - Recommended separating components, sections, styles, and data  
 
 **Manual Changes**
